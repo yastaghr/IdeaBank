@@ -1,0 +1,7 @@
+Desired features:
+add idea
+search ideas
+view ideas
+register idea use
+modify idea
+remove idea
