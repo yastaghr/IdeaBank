@@ -4,4 +4,4 @@ search ideas
 view ideas
 register idea use
 modify idea
-remove idea
+flag idea for removal
